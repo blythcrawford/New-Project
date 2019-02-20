@@ -1,2 +1,2 @@
-Print('hello')
-Print('see you later')
+print ("hello")
+print ("see you later")
